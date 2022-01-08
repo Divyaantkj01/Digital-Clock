@@ -1,0 +1,22 @@
+
+body{
+    background: #060a1f;
+}
+
+.clock{
+    font-size: 6em;
+    text-align: center;
+    margin: 200px auto;
+    font-family: arial;
+    color: white;
+}
+
+.clock span{
+    padding: 20px;
+    background: #2196f3;
+    box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.2) ;
+}
+
+.clock span:last-child{
+    background: #ff006a;
+}
